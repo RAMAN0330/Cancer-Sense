@@ -1,8 +1,6 @@
 import pickle
 import numpy as np
 import streamlit as st
-import requests
-from bs4 import BeautifulSoup
 
 # Load the trained model
 model = pickle.load(open('Random Forest', 'rb'))
