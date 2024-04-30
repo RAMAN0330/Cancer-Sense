@@ -1,7 +1,7 @@
 numpy  
 pandas
 seaborn 
-matplotlib%matplotlib inline
+matplotlib
 sklearn
 xgboost
 pickle
